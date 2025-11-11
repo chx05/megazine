@@ -8,4 +8,4 @@ From the "magazine" concept of storing objects, to the "megabytes" idea of handl
 
 <br>
 
-<p align="center">developed @ ancient_labs</p>
+<p align="center">developed <code>@</code> ancient_labs</p>
